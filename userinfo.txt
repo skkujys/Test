@@ -1,0 +1,3 @@
+userid="skkujys"
+email="tjrwndud6790@gmail.com"
+rurl="https://github.com/skkujys/Test.git"
